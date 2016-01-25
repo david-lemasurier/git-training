@@ -1,3 +1,3 @@
 @echo off
-git remote add upstream https://github.com/perSEVERE-5962/git-training.git > nul 2>&1
+git remote add upstream https://github.com/perSEVERE-5962/git-training.git
 git pull upstream master
